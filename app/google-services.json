@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741406142846",
+    "project_id": "costfy-be5dd",
+    "storage_bucket": "costfy-be5dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741406142846:android:58027460aa04eb8233032f",
+        "android_client_info": {
+          "package_name": "com.example.mahinakharch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIY_LNYbsUOSchHarPofrLTv0O2NZlmiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
